@@ -54,7 +54,7 @@ Every category has a brief description of the control objectives and a list of s
 
 All kinds of suggestions and requests are highly appreciated! If you want to improve the project in any way - please contact me on [Linkedin](https://www.linkedin.com/in/lukaszbobrek/) or [Twitter](https://twitter.com/lukaszbobrek). Also, pull requests are more than welcome!
 
-**Special thanks: 👏**
+**Special thanks 👏**
 * [jakubkaluzny](https://www.linkedin.com/in/jakubkaluzny/) for a support, review and some ideas for checks
 * [pkurylowicz](https://www.linkedin.com/in/pkurylowicz/) for a support and some ideas for checks 
 * [serhanwbahar](https://github.com/serhanwbahar) for first PR with quick fix for broken links
