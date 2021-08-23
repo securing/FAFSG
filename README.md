@@ -31,17 +31,17 @@ Every category has a brief description of the control objectives and a list of s
 
 **Web applications**
 * [V1: Authentication](Document-web/0x01-Authentication.md)
-* [V2: Authorization](Document-web/0x01-Authentication.md)
-* [V3: Session Management](Document-web/0x02-Authorization.md)
+* [V2: Authorization](Document-web/0x02-Authorization.md)
+* [V3: Session Management](Document-web/0x03-Session_management.md)
 * [V4: Credentials quality](Document-web/0x04-Credentials-quality.md)
 * [V5: Payment cards](Document-web/0x05-Payment-cards.md)
 * [V6: Limits](Document-web/0x06-Limits.md)
 * [V7: Notifications](Document-web/0x07-Notifications.md)
-* [V7: Contact](Document-web/0x08-Contact.md)
+* [V8: Contact](Document-web/0x08-Contact.md)
 
 **Mobile applications**
-* [V1: Authentication](Document-mobile/0x00-Introduction.md)
-* [V2: Authorization](Document-mobile/0x01-Authentication.md)
+* [V1: Authentication](Document-mobile/0x01-Authentication.md)
+* [V2: Authorization](Document-mobile/0x02-Authorization.md)
 * [V3: Session Management](Document-mobile/0x03-Session-management.md)
 * [V4: Credentials Quality](Document-mobile/0x04-Credentials-quality.md)
 * [V5: Payment cards](Document-mobile/0x05-Paymen-cards.md)
